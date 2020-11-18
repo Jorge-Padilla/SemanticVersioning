@@ -1,7 +1,10 @@
 # SemanticVersioning
+
+## Descripcion
+
 Implementación de un Analizador Sintactico para Semantic Versioning
 
-Gramática utilizada:
+## Gramática utilizada:
 
 $ -> # | # - % | # + ! | # - % + !
 
